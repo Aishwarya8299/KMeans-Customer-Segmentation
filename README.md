@@ -1,4 +1,6 @@
- Customer Segmentation using K-Means Clustering
+Customer Segmentation using K-Means Clustering
+
+
 Project Overview
 This project implements the K-Means clustering algorithm to perform customer segmentation. Customer segmentation is the process of grouping customers based on similar characteristics and behavior. The aim of this project is to understand customer patterns using unsupervised machine learning.
 The project is implemented using Python in Google Colab.
@@ -39,4 +41,5 @@ Through this project, I learned the basics of unsupervised machine learning.
 I gained a clear understanding of how the K-Means algorithm works.
 I learned the importance of feature scaling in clustering algorithms.
 I also learned how to visualize and interpret clustering results.
+
 
